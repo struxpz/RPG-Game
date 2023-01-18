@@ -1,4 +1,4 @@
-C++ console RPG Game.
+OOP C++ console RPG Game.
 
 Basic features:
 1)You can create a hero of one of four available classes : warior, mage, thief, berserker
