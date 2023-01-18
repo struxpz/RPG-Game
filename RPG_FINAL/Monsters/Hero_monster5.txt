@@ -1,0 +1,7 @@
+Nick monster5
+Level 5
+Strength 30
+Dexterity 30
+Endurance 11
+Intelligence 24
+Charisma 26

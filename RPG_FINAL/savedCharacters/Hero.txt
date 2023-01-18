@@ -1,0 +1,12 @@
+Nick Hero
+Class 2
+Level 2
+Health 100
+Coins 10150
+Energy 100
+Luck 0
+Strength 21
+Dexterity 6
+Endurance 7
+Intelligence 2
+Charisma 2

@@ -1,0 +1,7 @@
+Nick monster2
+Level 2
+Strength 12
+Dexterity 6
+Endurance 11
+Intelligence 10
+Charisma 8

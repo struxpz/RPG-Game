@@ -1,0 +1,7 @@
+Nick monster3
+Level 3
+Strength 17
+Dexterity 16
+Endurance 20
+Intelligence 7
+Charisma 22

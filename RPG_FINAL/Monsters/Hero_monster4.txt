@@ -1,0 +1,7 @@
+Nick monster4
+Level 4
+Strength 19
+Dexterity 14
+Endurance 20
+Intelligence 28
+Charisma 24
